@@ -2,6 +2,8 @@
 
 Elaborato di diploma incentrato sullo sviluppo di un'intelligenza artificiale in grado di fornire, a partire da elaborazioni del linguaggio naturale (NLP), delle risposte elaborate secondo una rete neurale preventivamente addestrata (AV).
 
+**Download diretto**: https://github.com/BrockDeveloper/Elaborato-AV-e-NLP/raw/main/Elaborato.pdf
+
 ## Argomenti trattati
 - Deep Learning
 - Reti neurali artificiali e fondamenti matematici
