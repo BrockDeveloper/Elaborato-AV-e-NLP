@@ -25,4 +25,4 @@ In particolare:
   - dialogo elementare
 
 ## Fonti
-Vedere file sitografia.md
+Vedere file sitografia.pdf
